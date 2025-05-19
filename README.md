@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Max, a PhD researcher at the German Cancer Research Center (DKFZ), where I explore the intersection of deep learning and medical imaging. My focus lies at the intersection of segmentation and time—developing promptable, interactive tools for longitudinal analysis, tracking, and multimodal understanding, all with an eye toward making these technologies intuitive, robust, and usable for the research and clinical communities.
+I'm Max, a PhD researcher at the German Cancer Research Center (DKFZ), working at the intersection of deep learning and medical imaging. My research centers on segmentation, temporality and text—developing promptable, interactive tools for longitudinal analysis, tracking, and multimodal understanding. I aim to make these technologies intuitive, reliable, and accessible for both research and clinical use.
 
 ### 🧠 My Projects
 
