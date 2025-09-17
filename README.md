@@ -15,21 +15,22 @@ I'm Max, a PhD researcher at the German Cancer Research Center (DKFZ), working a
 - [https://github.com/MIC-DKFZ/BreastDivider](https://github.com/MIC-DKFZ/BreastDivider) (MICCAI25 WOMEN): The first large-scale dataset and model for left/right breast segmentation in MRI, featuring over 17,000 3D scans with partial lesion annotations.
 
 
-I'm also a maintainer and contributor to the well-known [nnU-Net](https://github.com/MIC-DKFZ/nnUNet) [![GitHub stars](https://img.shields.io/github/stars/MIC-DKFZ/nnUNet.svg?logo=github&label=Stars)](https://github.com/MIC-DKFZ/nnUNet) framework—one of the cornerstones of modern medical image segmentation.
+I'm also a maintainer and contributor to the well-known [nnU-Net](https://github.com/MIC-DKFZ/nnUNet) [![GitHub stars](https://img.shields.io/github/stars/MIC-DKFZ/nnUNet.svg?logo=github&label=Stars)](https://github.com/MIC-DKFZ/nnUNet) framework - one of the cornerstones of modern medical image segmentation.
 
-Aside from my main projects I regularly participate in a variety of challenges in the MICCAI and other communities:
+Aside from my main projects I regularly participate in a variety of challenges in the CVPR, MICCAI and other communities:
 
-- 🥇 **Foundation Models for Interactive 3D Biomedical Image Segmentation @ CVPR 2025** – First place using nnInteractive
-- 🥇 **ODELIA @ MICCAI 2025** - Winning model for Breast Cancer Classification in MRI
-- 🥇 **autoPET @ MICCAI 2024** – First place in PET/CT lesion segmentation across multiple tracers and centers  
-- 🥇 **TopCoW @ MICCAI 2023** – First place in multiclass brain vasculature segmentation  
-- 🥇 **ToothFairy @ MICCAI 2024** – Part of the winning team in CBCT segmentation for surgical planning  
-- 🥉 **AortaSeg @ MICCAI 2024** – Third place in high-resolution aortic multiclass segmentation  
-- 💰 **Kaggle Vesuvius Challenge 2023** – 7th out of 1514, $6,500 prize for ancient ink detection
+- 🥇 **[Foundation Models for Interactive 3D Biomedical Image Segmentation](https://www.codabench.org/competitions/5263/) @ CVPR 2025** – First place using nnInteractive
+- 🥇 **1st place [PANTHER](https://panther.grand-challenge.org/) @ MICCAI 2025** - Pancreatic Tumor Segmentation in Diagnostic & Linac MRIs
+- 🥇 **1st place [ODELIA](https://odelia2025.grand-challenge.org/) @ MICCAI 2025** - Breast Cancer Classification in MRI
+- 🥇 **1st place [autoPET](https://autopet-iii.grand-challenge.org/) @ MICCAI 2024** – PET/CT lesion segmentation across multiple tracers and centers  
+- 🥇 **1st place [TopCoW](https://topcow23.grand-challenge.org/) @ MICCAI 2023** – Multiclass brain vasculature segmentation  
+- 🥇 **1st place [ToothFairy](https://toothfairy2.grand-challenge.org/) @ MICCAI 2024** – Part of the winning team in CBCT segmentation for surgical planning  
+- 🥉 **3rd place [AortaSeg](https://aortaseg24.grand-challenge.org/) @ MICCAI 2024** – High-resolution aortic multiclass segmentation  
+- 💰 **[Kaggle Vesuvius Challenge 2023](https://www.kaggle.com/competitions/vesuvius-challenge-ink-detection)** – 7th out of 1514, $6,500 prize for ancient ink detection
 
 ### More stuff about me
 
-- 🎤 Invited Speaker at Voxel51 Redux @ ECCV  
+- 🎤 Invited Speaker at _[Voxel51 Redux@ECCV](https://www.youtube.com/watch?v=3pPOJuO9bxs)_ and _[Voxel51 Visual AI in Healthcare](https://www.youtube.com/watch?v=Bh8tqpHFQF0)_ Events
 - 🏅 AI Hero Award – Helmholtz Hackathon on Sustainable AI  
 - 🧠 Co-lead of [The Human Radiome Project](https://human-radiome-project.de) (Helmholtz Foundation Model Initiative)
 
