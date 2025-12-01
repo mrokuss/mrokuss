@@ -1,12 +1,14 @@
 ## Hi there 👋
 
-I'm Max, a PhD researcher at the German Cancer Research Center (DKFZ), working at the intersection of deep learning and medical imaging. My research centers on segmentation, temporality and text—developing promptable, interactive tools for longitudinal analysis, tracking, and multimodal understanding. I aim to make these technologies intuitive, reliable, and accessible for both research and clinical use.
+I'm Max, a Google PhD Fellow 2025 and PhD researcher at the German Cancer Research Center (DKFZ), working at the intersection of deep learning and medical imaging. My research centers on segmentation, temporality and text—developing promptable, interactive tools for longitudinal analysis, tracking, and multimodal understanding. I aim to make these technologies intuitive, reliable, and accessible for both research and clinical use.
 
 ### 🧠 My Projects
 
 - [https://github.com/MIC-DKFZ/nnInteractive](https://github.com/MIC-DKFZ/nnInteractive): A comprehensive 3D interactive segmentation method supporting diverse prompts like points, scribbles, boxes, and a novel lasso prompt integrated into widely used image viewers like Napari, MITK and 3D Slicer.
 
 - [https://github.com/MIC-DKFZ/LesionLocator](https://github.com/MIC-DKFZ/LesionLocator) (CVPR25): A framework for zero-shot universal tumor segmentation and tracking in 3D whole-body imaging combining a large-scale lesion dataset, promptable segmentation, and deep-learning-based image registration.
+
+- [https://github.com/MIC-DKFZ/VoxTell](https://github.com/MIC-DKFZ/VoxTell): A 3D vision–language model that maps free-form text prompts, from single words to clinical sentences, directly to volumetric masks across CT, PET, and MRI, smimilar in spirit to SAM3.
 
 - [https://github.com/MIC-DKFZ/LongiSeg](https://github.com/MIC-DKFZ/LongiSeg) (MICCAI24 LDTM Oral): An extension of the nnU-Net framework tailored for longitudinal medical image segmentation incorporating temporal information across multiple timepoints.
 
