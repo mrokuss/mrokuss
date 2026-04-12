@@ -36,5 +36,6 @@ Aside from my main projects I regularly participate in a variety of challenges i
 - 🎤 Invited Speaker at _[Voxel51 Redux@ECCV](https://www.youtube.com/watch?v=3pPOJuO9bxs)_ and _[Voxel51 Visual AI in Healthcare](https://www.youtube.com/watch?v=Bh8tqpHFQF0)_ Events
 - 🏅 AI Hero Award – Helmholtz Hackathon on Sustainable AI  
 - 🧠 Co-lead of [The Human Radiome Project](https://human-radiome-project.de) (Helmholtz Foundation Model Initiative)
+- 📅 Organizor at [heidelberg.ai](https://heidelberg.ai) an initiative hosting AI talks and networking events
 
 Feel free to reach out if you're interested in collaboration or just want to chat!
