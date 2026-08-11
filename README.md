@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Max, a Google PhD Fellow 2025 and PhD researcher at the German Cancer Research Center (DKFZ), working at the intersection of deep learning and medical imaging. My research centers on segmentation, temporality and text where I am developing promptable, interactive tools for longitudinal analysis, tracking, and multimodal understanding. I aim to make these technologies intuitive, reliable, and accessible for both research and clinical use.
+I'm Max, a Google PhD Fellow and PhD Scholar at the German Cancer Research Center (DKFZ), working at the intersection of deep learning and medical imaging. My research centers on combining segmentation, temporality and language. I am developing promptable, interactive tools for vision-language grounding, longitudinal analysis, tracking, and multimodal understanding. I aim to make these technologies intuitive, reliable, and accessible for both research and clinical use.
 
 ### 🧠 My Projects
 
@@ -10,7 +10,7 @@ I'm Max, a Google PhD Fellow 2025 and PhD researcher at the German Cancer Resear
 
 - [https://github.com/MIC-DKFZ/VoxTell](https://github.com/MIC-DKFZ/VoxTell) (CVPR26): A 3D vision–language model that maps free-form text prompts, from single words to clinical sentences, directly to volumetric masks across CT, PET, and MRI, smimilar in spirit to SAM3.
 
-- [https://github.com/MIC-DKFZ/LongiSeg](https://github.com/MIC-DKFZ/LongiSeg) (MICCAI24 LDTM Oral): An extension of the nnU-Net framework tailored for longitudinal medical image segmentation incorporating temporal information across multiple timepoints.
+- [https://github.com/MIC-DKFZ/LongiSeg](https://github.com/MIC-DKFZ/LongiSeg) (MICCAI24 & MICCAI26 Oral): A framework for longitudinal medical image segmentation & promptable lesion tracking leveraging temporal information across timepoints and human-in-the-loop support.
 
 - [https://github.com/MIC-DKFZ/Skeleton-Recall](https://github.com/MIC-DKFZ/Skeleton-Recall) (ECCV24): A loss function designed to enhance connectivity conservation in thin tubular structure segmentation without incurring massive computational overheads.
 
@@ -36,6 +36,6 @@ Aside from my main projects I regularly participate in a variety of challenges i
 - 🎤 Invited Speaker at _[Voxel51 Redux@ECCV](https://www.youtube.com/watch?v=3pPOJuO9bxs)_ and _[Voxel51 Visual AI in Healthcare](https://www.youtube.com/watch?v=Bh8tqpHFQF0)_ Events
 - 🏅 AI Hero Award – Helmholtz Hackathon on Sustainable AI  
 - 🧠 Co-lead of [The Human Radiome Project](https://human-radiome-project.de) (Helmholtz Foundation Model Initiative)
-- 📅 Organizor at [heidelberg.ai](https://heidelberg.ai) an initiative hosting AI talks and networking events
+- 📅 Organizer at [heidelberg.ai](https://heidelberg.ai) an initiative hosting AI talks and networking events
 
 Feel free to reach out if you're interested in collaboration or just want to chat!
