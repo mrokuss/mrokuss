@@ -16,6 +16,8 @@ I'm Max, a Google PhD Fellow and PhD Scholar at the German Cancer Research Cente
 
 - [https://github.com/MIC-DKFZ/BreastDivider](https://github.com/MIC-DKFZ/BreastDivider) (MICCAI25 WOMEN): The first large-scale dataset and model for left/right breast segmentation in MRI, featuring over 17,000 3D scans with partial lesion annotations.
 
+- [https://github.com/MIC-DKFZ/nnssl](https://github.com/MIC-DKFZ/nnssl): nnFoundation, CNN- and transformer-based 3D radiology foundation models pretrained on 2.1M CT, MRI, and PET volumes, ready to use in nnU-Net and nnDetection.
+
 
 I'm also a maintainer and contributor to the well-known [nnU-Net](https://github.com/MIC-DKFZ/nnUNet) [![GitHub stars](https://img.shields.io/github/stars/MIC-DKFZ/nnUNet.svg?logo=github&label=Stars)](https://github.com/MIC-DKFZ/nnUNet) framework - one of the cornerstones of modern medical image segmentation.
 
