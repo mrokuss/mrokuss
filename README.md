@@ -10,7 +10,7 @@ I'm Max, a Google PhD Fellow and PhD Scholar at the German Cancer Research Cente
 
 - [https://github.com/MIC-DKFZ/VoxTell](https://github.com/MIC-DKFZ/VoxTell) (CVPR26): A 3D vision–language model that maps free-form text prompts, from single words to clinical sentences, directly to volumetric masks across CT, PET, and MRI, smimilar in spirit to SAM3.
 
-- [https://github.com/MIC-DKFZ/LongiSeg](https://github.com/MIC-DKFZ/LongiSeg) (MICCAI24 & MICCAI26 Oral): A framework for longitudinal medical image segmentation & promptable lesion tracking leveraging temporal information across timepoints and human-in-the-loop support.
+- [https://github.com/MIC-DKFZ/LongiSeg](https://github.com/MIC-DKFZ/LongiSeg) (MICCAI24 & MICCAI26 Oral, 🏆 Young Scientist Award): A framework for longitudinal medical image segmentation & promptable lesion tracking leveraging temporal information across timepoints and human-in-the-loop support.
 
 - [https://github.com/MIC-DKFZ/Skeleton-Recall](https://github.com/MIC-DKFZ/Skeleton-Recall) (ECCV24): A loss function designed to enhance connectivity conservation in thin tubular structure segmentation without incurring massive computational overheads.
 
@@ -35,6 +35,7 @@ Aside from my main projects I regularly participate in a variety of challenges i
 
 ### More stuff about me
 
+- 🏆 **Young Scientist Award @ MICCAI 2026** for [Exploiting Longitudinal Context in Clinician-Verified Interactive Lesion Tracking](https://arxiv.org/abs/2605.23118)
 - 🎤 Invited Speaker at _[Best of ECCV](https://www.youtube.com/watch?v=3pPOJuO9bxs)_ and _[Voxel51 Visual AI in Healthcare](https://www.youtube.com/watch?v=Bh8tqpHFQF0)_ Events
 - 🪟 Interned at [Microsoft Research USA](https://aka.ms/rwe)
 - 🏅 AI Hero Award – Helmholtz Hackathon on Sustainable AI
